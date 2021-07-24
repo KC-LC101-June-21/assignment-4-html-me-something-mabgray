@@ -40,3 +40,8 @@ h1{
 #catlove{
     font-size: 50px;
 }
+#footnote{
+    clear:both;
+    margin:auto;
+    width:30%;
+}
