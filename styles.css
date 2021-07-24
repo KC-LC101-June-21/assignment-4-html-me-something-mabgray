@@ -1,1 +1,38 @@
-/* Write your CSS here! */
+body{
+    font-family: 'Amatic SC', cursive;
+}
+h1{
+    margin: auto;
+    width:20%;
+    
+
+
+}
+#gradientcolor{
+    background-image: linear-gradient(to bottom right,#FAACA8, #DDD6F3, white);
+}
+.mainbox{
+    border:5px solid salmon;
+    padding:5px;
+    margin:10px;
+    width:40%;
+    margin:auto;
+    
+}
+
+#side {
+    float:right;
+}
+
+#cat{
+       border-radius: 50%;
+}
+
+   
+  
+#shadow{
+    text-shadow: 2px 2px;
+
+
+
+}
