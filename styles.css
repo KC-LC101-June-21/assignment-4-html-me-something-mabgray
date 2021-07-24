@@ -14,15 +14,17 @@ h1{
 }
 .mainbox{
     border:5px solid salmon;
-    padding:5px;
-    margin:10px;
+    padding:20px;
+    margin:30px;
     width:40%;
     margin:auto;
+    float:left;
+
     
 }
 
 #side {
-    float:right;
+    float:left;
 }
 
 #cat{
