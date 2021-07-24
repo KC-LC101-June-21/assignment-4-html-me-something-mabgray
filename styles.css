@@ -1,6 +1,7 @@
 body{
     font-family: 'Amatic SC', cursive;
     margin: 8px;
+    display:block;
 }
 h1{
     margin: auto;
