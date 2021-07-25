@@ -1,1 +1,53 @@
-/* Write your CSS here! */
+body{
+    font-family: monospace;
+    margin: 8px;
+    display:block;
+}
+h1{
+    margin: auto;
+    width:20%;
+    font-size: 40px;
+
+}
+#mainHeading {
+    color:red;
+}
+#gradientcolor{
+    background-image: linear-gradient(to bottom right,#FAACA8, #DDD6F3, white);
+}
+.mainbox{
+    border:5px solid salmon;
+    padding:20px;
+    margin:30px;
+    width:40%;
+    margin:auto;
+    float:left;
+
+    
+}
+
+#side {
+    float:left;
+}
+
+#cat{
+       border-radius: 50%;
+}
+
+   
+  
+#shadow{
+    text-shadow: 2px 2px;
+
+}
+#catlove{
+    font-size: 50px;
+}
+#footnote{
+    clear:both;
+    margin:auto;
+    width:30%;
+}
+.funParagraph {
+    color:green;
+}
